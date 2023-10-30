@@ -1,0 +1,38 @@
+h1{
+  color:blue;
+  text-align: center;
+  background-color:black;
+    font-family: monospace;
+}
+
+p{
+  text-align: justify;
+}
+strong{
+  color:darkblue;
+}
+/*ul{
+  position:relative;
+  top: 10px;
+}*/
+nav{
+  position:absolute;
+  top: 0;
+  right: 0;
+}
+.caixa{
+  widh: 940px;/*define como um elemento pode ser posicionado*/
+  position:relative;/*como um elemento pode ser posicionado na página*/
+  margin: 0 auto;/*é uma propriedade que define todas as margens individuais em uma só vez*/
+  
+}
+header{
+  padding: 20px;/*padding espaçamento interno do elemento*/
+}
+
+
+
+
+
+
+
